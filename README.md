@@ -34,3 +34,16 @@ To get the income groups of countries having total area ranging from 75,000 to 1
 For question 3, see query and table below 
 
 ![](3.0.png)
+
+For question 4, see query and table below
+
+![](4.png)
+
+For question 5, se table and query below
+
+![](5.png)
+
+For the countries from each region or continent having the highest total forest area, see table and query below.
+
+![](6.png)
+
