@@ -39,7 +39,7 @@ For question 4, see query and table below
 
 ![](4.png)
 
-For question 5, se table and query below
+For question 5, see table and query below
 
 ![](5.png)
 
