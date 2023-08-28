@@ -16,5 +16,21 @@ The purpose of this analysis is to querry 3 different sources of data, to solve 
  
 - Determine the total forest area (in square kilometers) for countries in the "High Income" income group? Also compare with the other income categories. 
 
-- What are the countries from each region or continent having the highest total forest area?? 
+- What are the countries from each region or continent having the highest total forest area??
 
+## SOLUTION
+To solve this problem, first we create a database called **PROJECT**, then import our tables.
+
+![](0.1.png)
+
+To find the total number of countries involved in deforestation, i wrote a query to return countries with forest area as 0
+
+![](1.0.png)
+
+To get the income groups of countries having total area ranging from 75,000 to 150,000?
+
+![](2.0.png)
+
+For question 3, see query and table below 
+
+![](3.0.png)
